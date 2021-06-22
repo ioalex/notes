@@ -18,7 +18,7 @@
 <br>
 
 ## Courses
-- [JavaScript - The Complete Guide 2020 (Beginner + Advanced)](./courses/javascript-the-complete-guide-2020-beginner+advanced/index.md)
+- [JavaScript - The Complete Guide 2020 (Beginner + Advanced)](./courses/javascript-the-complete-guide-2021-beginner+advanced/index.md)
 
 <br>
 
