@@ -1,4 +1,5 @@
 ## Author 🖋️
+
 **Alex He** <br>
 <a href="mailto:alex@alexhe.io">Email</a> |
 <a href="https://www.linkedin.com/in/alex-he">LinkedIn</a> |
@@ -18,6 +19,7 @@
 <br>
 
 ## Courses
+
 - [JavaScript - The Complete Guide 2020 (Beginner + Advanced)](./courses/javascript-the-complete-guide-2021-beginner+advanced/index.md)
 
 <br>
