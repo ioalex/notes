@@ -20,10 +20,10 @@
 
 ## Courses
 
-- [JavaScript - The Complete Guide 2020 (Beginner + Advanced)](./courses/javascript-the-complete-guide-2021-beginner+advanced/index.md)
+- 🧩 [JavaScript - The Complete Guide 2020 (Beginner + Advanced)](./courses/javascript-the-complete-guide-2021-beginner+advanced/index.md)
 
 <br>
 
 ## Articles
 
-- [How to Create a Self-documenting Makefile](./articles/how-to-create-a-self-documenting-makefile/index.md)
+- 📃 [How to Create a Self-documenting Makefile](./articles/how-to-create-a-self-documenting-makefile/index.md)
