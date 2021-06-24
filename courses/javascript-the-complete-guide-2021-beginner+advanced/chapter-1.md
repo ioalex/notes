@@ -10,12 +10,12 @@
   - [(1.4) How is JavaScript executed?](#14-how-is-javascript-executed)
   - [(1.5) Dynamic? Weakly Typed? What does this mean?](#15-dynamic-weakly-typed-what-does-this-mean)
   - [(1.6) JavaScript Runs in a Host Environment](#16-javascript-runs-in-a-host-environment)
-    - [(1.6.1) **Browser-side**](#161-browser-side)
-    - [(1.6.2) **"Other" (e.g. Server-side)**](#162-other-eg-server-side)
+    - [(1.6.1) Browser-side](#161-browser-side)
+    - [(1.6.2) "Other" (e.g. Server-side)](#162-other-eg-server-side)
   - [(1.7) JavaScript vs Java](#17-javascript-vs-java)
   - [(1.8) Client-side vs Server-side JavaScript](#18-client-side-vs-server-side-javascript)
   - [Client-side (Browser) vs Server-side (Node JS)](#client-side-browser-vs-server-side-node-js)
-  - [(1.9) So... why should we l**earn client-side JavaScript first?**](#19-so-why-should-we-learn-client-side-javascript-first)
+  - [(1.9) So... why should we learn client-side JavaScript first?](#19-so-why-should-we-learn-client-side-javascript-first)
 
 <br />
 
@@ -97,7 +97,7 @@ The most well known environment is the **browser**. Modern browsers have JavaScr
 
 For example, on the **Server-side**. So right on the computer, without having a browser in between, so not inside of a browser but simply execute code on your machine.
 
-### (1.6.1) **Browser-side**
+### (1.6.1) Browser-side
 
 - JS was invented to create more dynamic websites by executing in the browser
 - JS can manipulate HTML code, CSS, send background HTTP requests (some behind-the-scenes requests and fetch data) & much more
@@ -105,7 +105,7 @@ For example, on the **Server-side**. So right on the computer, without having a 
   - This is for security reasons otherwise every webpage you visit would be able to read your file system, maybe delete files on your computer
   - In general, you could say it is running inside a sandbox
 
-### (1.6.2) **"Other" (e.g. Server-side)**
+### (1.6.2) "Other" (e.g. Server-side)
 
 - Google's JS engine (V8) was extracted to run JS anywhere (called Node JS)
 - Node JS can be executed on any machine and is therefore often used to build web back-ends (server-side JS)
@@ -148,7 +148,7 @@ The syntax, concepts, core features etc. are exactly the same for client-side an
 
 <br />
 
-## (1.9) So... why should we l**earn client-side JavaScript first?**
+## (1.9) So... why should we learn client-side JavaScript first?
 
 - It's JavaScript's origin
 - There is no alternative to JavaScript in the browser
