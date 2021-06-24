@@ -20,6 +20,8 @@
 
 ## Courses
 
+- 🧑‍🔬 [CS50's Introduction to Computer Science](./courses/cs50-introduction-to-computer-science/index.md)
+
 - 🧩 [JavaScript - The Complete Guide 2020 (Beginner + Advanced)](./courses/javascript-the-complete-guide-2021-beginner+advanced/index.md)
 
 <br>
